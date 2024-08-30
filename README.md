@@ -1,3 +1,6 @@
+# live prevew:
+https://adeeba-7.github.io/EngagingLandingPage/
+
 # Engaging Landing Page
 I am thrilled to showcase my latest project, a dynamic and visually engaging landing page for a furniture company. This project was an excellent opportunity to apply my web development skills and create a user-friendly interface that highlights the beauty and functionality of the company's products.
 
